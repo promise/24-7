@@ -5,15 +5,16 @@
       "description": "Promise Solutions is Promise's take on making the internet even better.",
       "url": "https://promise.solutions/",
       "footer": {
-        "text": "🔕 No notifications for this."
+        "text": "🔔 Get notified when we launch something cool!"
       },
       "thumbnail": {
-        "url": "https://cdn.discordapp.com/icons/449576301997588490/9b85bbd56939bd4a6f1e1d3bb80e6dd3.png?size=2048",
+        "url": "https://i.imgur.com/pJxloQf.png",
         "width": 512
       },
       "color": 7506394
     },
     "pinned": true,
+    "bellrole": "581902525175693333",
     "message": "648627561840115724"
   },
   {
@@ -31,6 +32,23 @@
       "color": 12404274
     },
     "bellrole": "506085705366110218",
+    "message": "648627563928879169"
+  },
+  {
+    "embed": {
+      "title": "Promise 24/7",
+      "description": "A Discord bot with public source for educational and learning purposes. Feel free to use this in your code.",
+      "url": "https://github.com/gleeny/24-7",
+      "footer": {
+        "text": "🔔 Get notified when we launch something cool!"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/avatars/463393056121683969/de7408bed74b09f1466b2c8e3ea72d25.png?size=2048",
+        "width": 512
+      },
+      "color": 5135764
+    },
+    "bellrole": "611899586893578240",
     "message": "648627563928879169"
   },
   {
