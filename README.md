@@ -1,8 +1,8 @@
 <!-- [![DeepScan grade](https://deepscan.io/api/teams/5752/projects/7628/branches/80602/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5752&pid=7628&bid=80602) -->
-[![Dependency Status](https://david-dm.org/gleeny/24-7.svg)](https://david-dm.org/gleeny/24-7)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/gleeny/24-7.svg)](https://github.com/gleeny/24-7/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/gleeny/24-7.svg)](https://github.com/gleeny/24-7/pulls)
-[![License](https://img.shields.io/github/license/gleeny/24-7.svg)](https://github.com/gleeny/24-7/blob/master/LICENSE)
+[![Dependency Status](https://david-dm.org/promise/24-7.svg)](https://david-dm.org/promise/24-7)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/promise/24-7.svg)](https://github.com/promise/24-7/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/promise/24-7.svg)](https://github.com/promise/24-7/pulls)
+[![License](https://img.shields.io/github/license/promise/24-7.svg)](https://github.com/promise/24-7/blob/master/LICENSE)
 [![Discord Support](https://img.shields.io/discord/449576301997588490.svg)](https://promise.solutions/support)
 
 # 24-7
